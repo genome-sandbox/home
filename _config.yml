@@ -17,7 +17,7 @@ timezone: America/Chicago
 title: Accelerating Genomic Data Sharing and Collaborative Research with Privacy Protection
 # the main title
 
-tagline: Supported by NIH R01LM014520-01A1  # it will display as the sub-title
+tagline: NIH R01LM014520-01A1  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Collaborative project between Case Western Reserved University, Rutgers University, and UTHSC at Houston, focusing on genomic data sharing.
