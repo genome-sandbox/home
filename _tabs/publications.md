@@ -10,4 +10,4 @@ order: 3
 
 - **Wang X, Dervishi L, Li W, Jiang X, Ayday E, Vaidya J.** Efficient Federated Kinship Relationship Identification. *AMIA Jt Summits Transl Sci Proc* 2023 Jun 16;2023:534–543. PMID:37351796
 
-- **Dervishi L, Li W, Halimi A, Jiang X, Vaidya J, Ayday E.** Privacy preserving population stratification for collaborative genomic research. *ISOC Network and Distributed System Security Symposium* research.ibm.com; 2021. Available from: [https://research.ibm.com/publications/privacy-preserving-population-stratification-for-collaborative-genomic-research](https://research.ibm.com/publications/privacy-preserving-population-stratification-for-collaborative-genomic-research)
+- **Dervishi L, Li W, Halimi A, Jiang X, Vaidya J, Ayday E.** Privacy preserving population stratification for collaborative genomic research. *ISOC Network and Distributed System Security Symposium* research.ibm.com; 2021. Available from: [here](https://research.ibm.com/publications/privacy-preserving-population-stratification-for-collaborative-genomic-research)
