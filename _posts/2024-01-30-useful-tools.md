@@ -2,7 +2,7 @@
 title: Userful GitHub Resources
 author:  xj
 date: 2023-01-30 20:55:00 +0800
-categories: [Collaboration, AWS]
+categories: [Collaboration, GitHub]
 tags: [tools]
 pin: true
 ---
